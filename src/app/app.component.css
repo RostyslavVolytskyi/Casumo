@@ -1,0 +1,27 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.css";
+
+.number-count {
+	background-color: #5bc0de;
+	color: white;
+	font-weight: 700;
+	padding: 2px;
+	border-radius: 4px;
+}
+
+.indicator {
+	margin-left: 8px;
+	font-size: 10px;
+	color: white;
+	font-weight: 700;
+	padding: 2px;
+	border-radius: 4px;
+}
+
+.friday {
+	background-color: #eb9316;
+}
+
+.halloween {
+	background-color: #c12e2a;
+}

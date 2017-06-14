@@ -1,5 +1,19 @@
 # Booklist
 
+Hi! So, my task is ready for review: ) The task was made with the help of cool framework Angular4.0 and such libraries as Bootstrap, MomentJS, UnderscoreJS. Of course it can be done better with a bigger amount of components, RxJS, unit tests and without a bugs;) ... but not in a such tiny time period))) You know where to find me :)
+
+## Run application
+
+```
+npm install -g @angular/cli
+Clone project (git clone ...)
+cd booklist
+npm install
+ng serve
+```
+
+## From angular documentation
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.
 
 ## Development server
