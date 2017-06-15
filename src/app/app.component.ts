@@ -112,7 +112,7 @@ export class AppComponent implements OnInit {
 	}
 
 	onHalloween(momentDate): boolean {
-		return momentDate.format('MMM Do') === 'Oct 27th';
+		return momentDate.format('MMM Do') === 'Oct 31st';
 	}
 
 	isLastFriday(momentDate): boolean {
