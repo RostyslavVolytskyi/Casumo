@@ -1,6 +1,6 @@
 # Booklist
 
-Hi! So, my task is ready for review: ) The task was made with the help of cool framework Angular4.0 and such libraries as Bootstrap, MomentJS, UnderscoreJS. Of course it can be done better with a bigger amount of components, RxJS, unit tests and without a bugs;) ... but not in a such tiny time period))) You know where to find me :)
+Hi! So, my task is ready for review: ) The task was made with the help of cool framework Angular4.0 and such libraries as Bootstrap, MomentJS, UnderscoreJS. Of course it can be done better with a bigger amount of components, RxJS, unit tests and without a bugs;) ... but not in a such tiny time period)))
 
 ## Run application
 
